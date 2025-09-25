@@ -8,3 +8,9 @@ I am the creator of two cinnamon desklets
 * ⚡ [Quick Links](https://cinnamon-spices.linuxmint.com/desklets/view/76)
 * 📋 [TODO Desklet](https://cinnamon-spices.linuxmint.com/desklets/view/79)
 
+### Examples of my devices
+
+| PM1 Digital Thermometer                               | Aion2 Desktop timer                           |
+| ----------------------------------------------------- | --------------------------------------------- |
+| <img src="PM1_img.webp" width="409px" width="auto">   | <img src="aion2.webp" width="480px">          |
+
