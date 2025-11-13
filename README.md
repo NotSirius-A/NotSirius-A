@@ -1,6 +1,6 @@
 ## Hello!
 
-I am a developer from Poland. My work focuses on backend - web related developement and hardware/embedded programming. In addition to coding my projects I also enjoy designing electronics and PCB's for them.
+I am a developer from Poland. My work focuses on backend/devops - web related developement and hardware/embedded programming. In addition to coding my projects I also enjoy designing electronics and PCB's for them.
 
 ### Linux Cinnamon
 
